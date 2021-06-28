@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch compilador",
+            "request": "launch",
+            "mainClass": "compilador",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppMascotas",
+            "request": "launch",
+            "mainClass": "Mascotas.AppMascotas",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppTareas",
+            "request": "launch",
+            "mainClass": "AppTarea.AppTareas",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e45",
+            "request": "launch",
+            "mainClass": "e45",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e44",
+            "request": "launch",
+            "mainClass": "e44",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e43",
+            "request": "launch",
+            "mainClass": "e43",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e42",
+            "request": "launch",
+            "mainClass": "e42",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e41",
+            "request": "launch",
+            "mainClass": "e41",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e40",
+            "request": "launch",
+            "mainClass": "e40",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e38",
+            "request": "launch",
+            "mainClass": "e38",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e37",
+            "request": "launch",
+            "mainClass": "e37",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e36",
+            "request": "launch",
+            "mainClass": "e36",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e35",
+            "request": "launch",
+            "mainClass": "e35",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e34",
+            "request": "launch",
+            "mainClass": "e34",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e33",
+            "request": "launch",
+            "mainClass": "e33",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e32",
+            "request": "launch",
+            "mainClass": "e32",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e31",
+            "request": "launch",
+            "mainClass": "e31",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e30",
+            "request": "launch",
+            "mainClass": "e30",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e27",
+            "request": "launch",
+            "mainClass": "e27",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e26",
+            "request": "launch",
+            "mainClass": "e26",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e25",
+            "request": "launch",
+            "mainClass": "e25",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e23",
+            "request": "launch",
+            "mainClass": "e23",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e22",
+            "request": "launch",
+            "mainClass": "e22",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e20",
+            "request": "launch",
+            "mainClass": "e20",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e19",
+            "request": "launch",
+            "mainClass": "e19",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e18",
+            "request": "launch",
+            "mainClass": "e18",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e17",
+            "request": "launch",
+            "mainClass": "e17",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e16",
+            "request": "launch",
+            "mainClass": "e16",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e15",
+            "request": "launch",
+            "mainClass": "e15",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e14",
+            "request": "launch",
+            "mainClass": "e14",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e13",
+            "request": "launch",
+            "mainClass": "e13",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch code",
+            "request": "launch",
+            "mainClass": "code",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e1",
+            "request": "launch",
+            "mainClass": "e1",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e10",
+            "request": "launch",
+            "mainClass": "e10",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e11",
+            "request": "launch",
+            "mainClass": "e11",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e12",
+            "request": "launch",
+            "mainClass": "e12",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e2",
+            "request": "launch",
+            "mainClass": "e2",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e3",
+            "request": "launch",
+            "mainClass": "e3",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e4",
+            "request": "launch",
+            "mainClass": "e4",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e5",
+            "request": "launch",
+            "mainClass": "e5",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e6",
+            "request": "launch",
+            "mainClass": "e6",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e7",
+            "request": "launch",
+            "mainClass": "e7",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e8",
+            "request": "launch",
+            "mainClass": "e8",
+            "projectName": "Ejercicios java_94d215bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch e9",
+            "request": "launch",
+            "mainClass": "e9",
+            "projectName": "Ejercicios java_94d215bd"
+        }
+    ]
+}
